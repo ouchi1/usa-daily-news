@@ -84,16 +84,14 @@ export const articles = [
     alt: "Border security"
   },
   {
-
-  id: 9,
-  title: "Debate Over Donald Trump's Long-Term Legacy Continues Across America",
-  description: "A recent survey highlights ongoing divisions over how future generations may judge Donald Trump's presidency.",
-  fullContent: "Public discussion surrounding the long-term legacy of former U.S. President Donald Trump has intensified following the release of a recent political survey examining how future generations may view his time in office.\n\nSupporters frequently point to economic initiatives, tax reforms, judicial appointments, border security efforts, and foreign policy decisions as major accomplishments that shaped the nation during his presidency. Many believe these policies will have a lasting impact on American politics for decades to come.\n\nCritics, however, argue that Trump's administration was marked by significant controversies, political polarization, and challenges to democratic institutions. They contend that these issues will remain central to historical assessments of his leadership.\n\nThe survey reflects the continuing divide in public opinion regarding Trump's influence on the United States. While some Americans view his presidency as transformative and consequential, others see it as one of the most controversial periods in modern political history.\n\nAs political debates continue and future elections shape the nation's direction, historians, political analysts, and citizens alike are expected to continue examining Trump's role and legacy in American history for years to come.",
-  category: "Politics",
-  date: "2026-06-04",
-  imageUrl: "IMG/ID_9.png",
-  alt: "Discussion surrounding the long-term legacy of Donald Trump"
-
+    id: 9,
+    title: "Debate Over Donald Trump's Long-Term Legacy Continues Across America",
+    description: "A recent survey highlights ongoing divisions over how future generations may judge Donald Trump's presidency.",
+    fullContent: "Public discussion surrounding the long-term legacy of former U.S. President Donald Trump has intensified following the release of a recent political survey examining how future generations may view his time in office.\n\nSupporters frequently point to economic initiatives, tax reforms, judicial appointments, border security efforts, and foreign policy decisions as major accomplishments that shaped the nation during his presidency. Many believe these policies will have a lasting impact on American politics for decades to come.\n\nCritics, however, argue that Trump's administration was marked by significant controversies, political polarization, and challenges to democratic institutions. They contend that these issues will remain central to historical assessments of his leadership.\n\nThe survey reflects the continuing divide in public opinion regarding Trump's influence on the United States. While some Americans view his presidency as transformative and consequential, others see it as one of the most controversial periods in modern political history.\n\nAs political debates continue and future elections shape the nation's direction, historians, political analysts, and citizens alike are expected to continue examining Trump's role and legacy in American history for years to come.",
+    category: "Politics",
+    date: "2026-06-04",
+    imageUrl: "IMG/ID_9.png",
+    alt: "Discussion surrounding the long-term legacy of Donald Trump"
   },
   {
     id: 10,
@@ -176,3 +174,20 @@ export const articles = [
     alt: "Government oversight"
   }
 ];
+
+// ==================== TEMPLATE FOR NEW ARTICLE ====================
+// Copy this template and paste at the end of the array (before the closing ])
+// Make sure to add a comma after the previous article!
+/*
+,
+{
+  id: 18,
+  title: "Your Breaking News Title Here",
+  description: "Short preview of the news (max 120 characters)",
+  fullContent: "Full article content here. Use \n\n to create paragraphs.\n\nThis is the second paragraph. You can write as much as you want.\n\nThis is the third paragraph with more details.",
+  category: "News",
+  date: "2026-06-04",
+  imageUrl: "IMG/your-image.jpg",
+  alt: "Image description"
+}
+*/
