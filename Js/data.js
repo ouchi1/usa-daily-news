@@ -175,3 +175,4 @@ export const articles = [
     imageUrl: "IMG/17.jpg",
     alt: "Government oversight"
   }
+];
