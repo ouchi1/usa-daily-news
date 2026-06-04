@@ -90,8 +90,8 @@ export const articles = [
     fullContent: "Public discussion surrounding the long-term legacy of former U.S. President Donald Trump has intensified following the release of a recent political survey examining how future generations may view his time in office.\n\nSupporters frequently point to economic initiatives, tax reforms, judicial appointments, border security efforts, and foreign policy decisions as major accomplishments that shaped the nation during his presidency. Many believe these policies will have a lasting impact on American politics for decades to come.\n\nCritics, however, argue that Trump's administration was marked by significant controversies, political polarization, and challenges to democratic institutions. They contend that these issues will remain central to historical assessments of his leadership.\n\nThe survey reflects the continuing divide in public opinion regarding Trump's influence on the United States. While some Americans view his presidency as transformative and consequential, others see it as one of the most controversial periods in modern political history.\n\nAs political debates continue and future elections shape the nation's direction, historians, political analysts, and citizens alike are expected to continue examining Trump's role and legacy in American history for years to come.",
     category: "Politics",
     date: "2026-06-04",
-    imageUrl: "IMG/ID_9.png",
-    alt: "Discussion surrounding the long-term legacy of Donald Trump"
+    imageUrl: "https://picsum.photos/id/100/400/240",
+    alt: "Trump legacy discussion"
   },
   {
     id: 10,
@@ -100,7 +100,7 @@ export const articles = [
     fullContent: "Artificial intelligence is rapidly transforming workplaces and industries worldwide. Experts predict that by 2030, AI will automate up to 30% of current tasks while creating new job categories. The key challenge will be reskilling workers and ensuring equitable access to AI technologies.",
     category: "Technology",
     date: "2026-06-04",
-    imageUrl: "IMG/10.jpg",
+    imageUrl: "https://picsum.photos/id/0/400/240",
     alt: "AI and robotics"
   },
   {
@@ -110,7 +110,7 @@ export const articles = [
     fullContent: "Global inflation continues to strain household budgets as food, energy, and housing costs remain elevated. Central banks are balancing interest rate policies between controlling inflation and supporting economic growth.\n\nMany families are adjusting spending habits and seeking additional income sources. Economists suggest that relief may come later this year as supply chains stabilize.",
     category: "Business",
     date: "2026-06-04",
-    imageUrl: "IMG/11.jpg",
+    imageUrl: "https://picsum.photos/id/20/400/240",
     alt: "Rising living costs"
   },
   {
@@ -120,7 +120,7 @@ export const articles = [
     fullContent: "As the 2026 election cycle approaches, debates over U.S. leadership and policy priorities intensify. Key issues include economic policy, healthcare reform, immigration, and national security.\n\nPolitical analysts note that voter turnout and engagement are expected to be high, reflecting the significance of the upcoming decisions facing the nation.",
     category: "Politics",
     date: "2026-06-04",
-    imageUrl: "IMG/12.jpg",
+    imageUrl: "https://picsum.photos/id/1/400/240",
     alt: "US politics discussion"
   },
   {
@@ -130,7 +130,7 @@ export const articles = [
     fullContent: "Excitement builds as nations finalize their preparations for the upcoming FIFA World Cup. Millions of fans are expected to travel to host cities, while billions more will watch from home.\n\nSecurity measures and infrastructure improvements are being implemented to ensure a safe and successful tournament.",
     category: "Sports",
     date: "2026-06-04",
-    imageUrl: "IMG/13.jpg",
+    imageUrl: "https://picsum.photos/id/29/400/240",
     alt: "FIFA World Cup"
   },
   {
@@ -140,7 +140,7 @@ export const articles = [
     fullContent: "Nations worldwide are accelerating their transition to renewable energy sources in response to climate change concerns. Solar, wind, and battery storage technologies are becoming more cost-effective and widely adopted.\n\nInternational cooperation on emissions reductions and sustainable development continues to strengthen.",
     category: "Environment",
     date: "2026-06-04",
-    imageUrl: "IMG/14.jpg",
+    imageUrl: "https://picsum.photos/id/48/400/240",
     alt: "Renewable energy"
   },
   {
@@ -150,7 +150,7 @@ export const articles = [
     fullContent: "Recent political discussions have focused on meetings between former President Trump and congressional leaders, highlighting ongoing influence within the Republican Party. The meetings covered legislative priorities, campaign strategies, and policy positions ahead of upcoming elections.\n\nObservers note that Trump continues to play a significant role in shaping political discourse.",
     category: "Politics",
     date: "2026-06-04",
-    imageUrl: "IMG/15.jpg",
+    imageUrl: "https://picsum.photos/id/1/400/240",
     alt: "Trump political meeting"
   },
   {
@@ -160,7 +160,7 @@ export const articles = [
     fullContent: "A family member recently shared heartfelt reflections on the former president's work ethic, dedication to public service, and commitment to the nation. The emotional account highlights the personal side of the political figure, emphasizing the demanding nature of presidential responsibilities.\n\nThe story has resonated with many Americans who appreciate the personal sacrifices involved in political leadership.",
     category: "Opinion",
     date: "2026-06-04",
-    imageUrl: "IMG/16.jpg",
+    imageUrl: "https://picsum.photos/id/91/400/240",
     alt: "American flag leadership"
   },
   {
@@ -170,7 +170,7 @@ export const articles = [
     fullContent: "Watchdog groups and lawmakers are raising questions about the Freedom 250 initiative, examining its public-private funding structure and the role of major contractors. The program involves collaboration between government agencies and private companies, raising transparency and accountability concerns.\n\nProponents argue that private sector expertise and resources are essential for ambitious national projects, while critics call for greater oversight.",
     category: "Politics",
     date: "2026-06-04",
-    imageUrl: "IMG/17.jpg",
+    imageUrl: "https://picsum.photos/id/77/400/240",
     alt: "Government oversight"
   }
 ];
@@ -187,7 +187,7 @@ export const articles = [
   fullContent: "Full article content here. Use \n\n to create paragraphs.\n\nThis is the second paragraph. You can write as much as you want.\n\nThis is the third paragraph with more details.",
   category: "News",
   date: "2026-06-04",
-  imageUrl: "IMG/your-image.jpg",
+  imageUrl: "https://picsum.photos/id/1/400/240",
   alt: "Image description"
 }
 */
