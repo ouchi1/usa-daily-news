@@ -96,93 +96,82 @@ export const articles = [
 
   },
   {
-  id: 10,
-  title: "Experts Debate How AI Will Transform Jobs and Daily Life by 2030",
-  description: "Artificial intelligence is rapidly changing workplaces and global industries.",
-  category: "Technology",
-  date: "2026-06-04",
-  imageUrl: "IMG/10.jpg",
-  alt: "Artificial Intelligence and robotics"
-},
-{
-  id: 11,
-  title: "Rising Living Costs Continue to Impact Families Worldwide",
-  description: "Inflation and economic pressure remain major global concerns.",
-  category: "Business",
-  date: "2026-06-04",
-  imageUrl: "IMG/11.jpg",
-  alt: "Economy and rising cost of living"
-},
-{
-  id: 12,
-  title: "Political Debate Continues Over U.S. Leadership and Policy Direction",
-  description: "Experts and citizens remain divided on recent political developments.",
-  category: "Politics",
-  date: "2026-06-04",
-  imageUrl: "IMG/12.jpg",
-  alt: "United States politics discussion"
-},
-{
-  id: 13,
-  title: "Fans Worldwide Prepare for the Upcoming FIFA World Cup",
-  description: "The biggest football event is expected to attract global attention.",
-  category: "Sports",
-  date: "2026-06-04",
-  imageUrl: "IMG/13.jpg",
-  alt: "Football stadium and crowd"
-},
-{
-  id: 14,
-  title: "Countries Accelerate Renewable Energy and Climate Action Plans",
-  description: "Global efforts increase toward clean energy and environmental protection.",
-  category: "Environment",
-  date: "2026-06-04",
-  imageUrl: "IMG/14.jpg",
-  alt: "Renewable energy and climate action"
-},
-{
-  id: 15,
-  title: "Donald Trump and Congressional Leader Seen in Formal Political Meeting Sparks Online Debate",
-  description: "A political-style graphic shows Donald Trump in a formal meeting setting, prompting discussion on presidential legacy and public opinion.",
-  category: "Politics",
-  date: "2026-06-04",
-  imageUrl: "IMG/15.jpg",
-  alt: "Donald Trump political meeting graphic with congressional leader and headline text"
-},
-{
-  id: 16,
-  title: "Grandson Shares Emotional Story Praising Hard Work and Dedication of Former President Trump",
-  description: "A 60-year-old man shares his personal reflections about President Trump’s work ethic and dedication, expressing admiration for his continued public service and calling for prayers and blessings for his health and strength.",
-  category: "Opinion",
-  date: "2026-06-04",
-  imageUrl: "IMG/16.jpg",
-  alt: "American flag and political background representing leadership and national politics"
-},
+    id: 10,
+    title: "Experts Debate How AI Will Transform Jobs and Daily Life by 2030",
+    description: "Artificial intelligence is rapidly changing workplaces and global industries.",
+    fullContent: "Artificial intelligence is rapidly transforming workplaces and industries worldwide. Experts predict that by 2030, AI will automate up to 30% of current tasks while creating new job categories. The key challenge will be reskilling workers and ensuring equitable access to AI technologies.",
+    category: "Technology",
+    date: "2026-06-04",
+    imageUrl: "IMG/10.jpg",
+    alt: "AI and robotics"
+  },
+  {
+    id: 11,
+    title: "Rising Living Costs Continue to Impact Families Worldwide",
+    description: "Inflation and economic pressure remain major global concerns.",
+    fullContent: "Global inflation continues to strain household budgets as food, energy, and housing costs remain elevated. Central banks are balancing interest rate policies between controlling inflation and supporting economic growth.\n\nMany families are adjusting spending habits and seeking additional income sources. Economists suggest that relief may come later this year as supply chains stabilize.",
+    category: "Business",
+    date: "2026-06-04",
+    imageUrl: "IMG/11.jpg",
+    alt: "Rising living costs"
+  },
+  {
+    id: 12,
+    title: "Political Debate Continues Over U.S. Leadership and Policy Direction",
+    description: "Experts and citizens remain divided on recent political developments.",
+    fullContent: "As the 2026 election cycle approaches, debates over U.S. leadership and policy priorities intensify. Key issues include economic policy, healthcare reform, immigration, and national security.\n\nPolitical analysts note that voter turnout and engagement are expected to be high, reflecting the significance of the upcoming decisions facing the nation.",
+    category: "Politics",
+    date: "2026-06-04",
+    imageUrl: "IMG/12.jpg",
+    alt: "US politics discussion"
+  },
+  {
+    id: 13,
+    title: "Fans Worldwide Prepare for the Upcoming FIFA World Cup",
+    description: "The biggest football event is expected to attract global attention.",
+    fullContent: "Excitement builds as nations finalize their preparations for the upcoming FIFA World Cup. Millions of fans are expected to travel to host cities, while billions more will watch from home.\n\nSecurity measures and infrastructure improvements are being implemented to ensure a safe and successful tournament.",
+    category: "Sports",
+    date: "2026-06-04",
+    imageUrl: "IMG/13.jpg",
+    alt: "FIFA World Cup"
+  },
+  {
+    id: 14,
+    title: "Countries Accelerate Renewable Energy and Climate Action Plans",
+    description: "Global efforts increase toward clean energy and environmental protection.",
+    fullContent: "Nations worldwide are accelerating their transition to renewable energy sources in response to climate change concerns. Solar, wind, and battery storage technologies are becoming more cost-effective and widely adopted.\n\nInternational cooperation on emissions reductions and sustainable development continues to strengthen.",
+    category: "Environment",
+    date: "2026-06-04",
+    imageUrl: "IMG/14.jpg",
+    alt: "Renewable energy"
+  },
+  {
+    id: 15,
+    title: "Donald Trump and Congressional Leader Seen in Formal Political Meeting",
+    description: "A political-style graphic shows Donald Trump in a formal meeting setting, prompting discussion on presidential legacy.",
+    fullContent: "Recent political discussions have focused on meetings between former President Trump and congressional leaders, highlighting ongoing influence within the Republican Party. The meetings covered legislative priorities, campaign strategies, and policy positions ahead of upcoming elections.\n\nObservers note that Trump continues to play a significant role in shaping political discourse.",
+    category: "Politics",
+    date: "2026-06-04",
+    imageUrl: "IMG/15.jpg",
+    alt: "Trump political meeting"
+  },
+  {
+    id: 16,
+    title: "Grandson Shares Emotional Story Praising Hard Work and Dedication of Former President Trump",
+    description: "A personal reflection expresses admiration for President Trump's work ethic and dedication to public service.",
+    fullContent: "A family member recently shared heartfelt reflections on the former president's work ethic, dedication to public service, and commitment to the nation. The emotional account highlights the personal side of the political figure, emphasizing the demanding nature of presidential responsibilities.\n\nThe story has resonated with many Americans who appreciate the personal sacrifices involved in political leadership.",
+    category: "Opinion",
+    date: "2026-06-04",
+    imageUrl: "IMG/16.jpg",
+    alt: "American flag leadership"
+  },
   {
     id: 17,
     title: "Freedom 250 Faces Scrutiny Over Funding and Corporate Involvement",
-    description: "The Freedom 250 initiative is under scrutiny from watchdog groups and lawmakers over its public-private funding model and involvement of major tech and defense contractors including Oracle, Palantir, Deloitte, and Lockheed Martin.",
+    description: "The Freedom 250 initiative is under scrutiny from watchdog groups and lawmakers over its public-private funding model.",
+    fullContent: "Watchdog groups and lawmakers are raising questions about the Freedom 250 initiative, examining its public-private funding structure and the role of major contractors. The program involves collaboration between government agencies and private companies, raising transparency and accountability concerns.\n\nProponents argue that private sector expertise and resources are essential for ambitious national projects, while critics call for greater oversight.",
     category: "Politics",
     date: "2026-06-04",
     imageUrl: "IMG/17.jpg",
-    alt: "Government and politics concept image"
+    alt: "Government oversight"
   }
-
-];
-
-// ==================== TEMPLATE FOR NEW ARTICLE ====================
-// Copy this template and paste at the end of the array (before the closing ])
-// Make sure to add a comma after the previous article!
-/*
-,
-{
-  id: 9,
-  title: "Your Breaking News Title Here",
-  description: "Short preview of the news (max 120 characters)",
-  fullContent: "Full article content here. Use \n\n to create paragraphs.\n\nThis is the second paragraph. You can write as much as you want.\n\nThis is the third paragraph with more details.",
-  category: "News",
-  date: "2026-06-03",
-  imageUrl: "IMG/your-image.jpg",
-  alt: "Image description"
-}
-*/
